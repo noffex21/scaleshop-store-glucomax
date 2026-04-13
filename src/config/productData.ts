@@ -22,6 +22,7 @@ export const PRODUCT_DATA = {
   "storeName": "Minha Loja",
   "subdomain": "glucomax",
   "github_url": "https://github.com/noffex21/scaleshop-store-glucomax",
+  "vercel_url": "https://scaleshop-glucomax-0.la.vercel.app",
   "description": {
     "short": "",
     "specs": [],
@@ -57,13 +58,17 @@ export const PRODUCT_DATA = {
       },
       "creatorVideos": [],
       "originalPrice": 0,
-      "carouselImages": [],
+      "carouselImages": [
+        "https://knbpurdmiwupinkbsxnn.supabase.co/storage/v1/object/public/uploads/1776124582178-2.png"
+      ],
       "recommendations": []
     }
   ],
   "carouselImages": [],
   "recommendations": [],
+  "last_deployed_at": "2026-04-13T23:54:19.130Z",
   "paradiseSecretKey": "[REMOVED_FOR_SECURITY]",
+  "vercel_project_id": "prj_Ijtwf6C64SvTNsFkiXAZqjLDnexA",
   "github_repo_full_name": "noffex21/scaleshop-store-glucomax",
   "isPlaceholder": false
 };
