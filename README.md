@@ -1,0 +1,1 @@
+# scaleshop-store-glucomax
