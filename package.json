@@ -1,0 +1,48 @@
+{
+  "name": "tiktok-clone",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@fontsource/tiktok-sans": "^5.2.4",
+    "@radix-ui/react-slot": "^1.2.4",
+    "@supabase/auth-helpers-nextjs": "^0.10.0",
+    "@supabase/ssr": "^0.9.0",
+    "@supabase/supabase-js": "^2.99.1",
+    "@tailwindcss/postcss": "^4",
+    "@types/d3": "^7.4.3",
+    "@types/javascript-obfuscator": "^0.0.5",
+    "adm-zip": "^0.5.16",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "d3": "^7.9.0",
+    "embla-carousel-react": "^8.6.0",
+    "framer-motion": "^12.36.0",
+    "javascript-obfuscator": "^5.3.0",
+    "jszip": "^3.10.1",
+    "lucide-react": "^0.577.0",
+    "motion": "^12.36.0",
+    "next": "16.1.6",
+    "octokit": "^5.0.5",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "tailwind-merge": "^3.5.0",
+    "tailwindcss": "^4",
+    "web-push": "^3.6.7"
+  },
+  "devDependencies": {
+    "@types/adm-zip": "^0.5.8",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/web-push": "^3.6.4",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.6",
+    "typescript": "^5"
+  }
+}

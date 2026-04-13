@@ -1,0 +1,23 @@
+{
+  "name": "ScaleShop Intelligence",
+  "short_name": "ScaleShop",
+  "description": "Monitore seu império TikTok Shop em tempo real.",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#ff0050",
+  "icons": [
+    {
+      "src": "/logo-do-tik-tok_578229-290.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo-do-tik-tok_578229-290.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
